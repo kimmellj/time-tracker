@@ -1,2 +1,4 @@
 data/*
 .dpd/pids/*
+*.sublime-project
+*.sublime-workspace
