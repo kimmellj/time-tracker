@@ -1,4 +1,2 @@
-data/*
-.dpd/pids/*
-*.sublime-project
-*.sublime-workspace
+temp
+dist
