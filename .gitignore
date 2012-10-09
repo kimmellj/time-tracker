@@ -1,2 +1,5 @@
 temp
 dist
+*.sublime-project
+*.sublime-workspace
+bin
